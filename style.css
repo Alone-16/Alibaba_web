@@ -25,6 +25,7 @@ button{
     color: white;
     font-family: Inter,SF Pro Text,Roboto,Helvetica Neue,Helvetica,Tahoma,Arial,PingFang SC,Microsoft YaHei;
     font-size: 23px;
+    flex-wrap: nowrap;
 }
 
 .extension button{
